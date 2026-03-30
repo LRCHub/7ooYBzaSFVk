@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ノックブーツ",
   "base_artist": "Chevon",
-  "createdAt": "2026-02-07T14:56:47.573466Z",
+  "createdAt": "2026-03-30T05:19:01.908196Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -29,12 +29,29 @@
       "path": "select/03_ノックブーツ_RIM.txt"
     },
     {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ノックブーツ",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/04_ノックブーツ_理芽.txt"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "ノックブーツ",
       "artist": "Chevon",
       "has_synced": false,
       "path": "select/pl_01_ノックブーツ_Chevon.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ノックブーツ",
+      "artist": "Chevon",
+      "has_synced": true,
+      "path": "select/localdb_01_ノックブーツ_Chevon.lrc",
+      "repo_name": "7ooYBzaSFVk"
     }
   ]
 }
